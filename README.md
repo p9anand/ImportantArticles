@@ -7,3 +7,7 @@ https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/udacity
 
 # Recommendation System
 https://github.com/andreiolariu/kaggle-event-recommendation
+
+# Resources for TensorFlow
+https://hackerlists.com/tensorflow-resources/
+
