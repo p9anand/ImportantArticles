@@ -11,3 +11,6 @@ https://github.com/andreiolariu/kaggle-event-recommendation
 # Resources for TensorFlow
 https://hackerlists.com/tensorflow-resources/
 
+# TensorFlow course 101
+https://github.com/sjchoi86/Tensorflow-101
+
