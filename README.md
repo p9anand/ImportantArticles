@@ -14,3 +14,6 @@ https://hackerlists.com/tensorflow-resources/
 # TensorFlow course 101
 https://github.com/sjchoi86/Tensorflow-101
 
+# Good for RFM Model, Markov Model, Attribution Model
+http://analyzecore.com/2016/08/03/attribution-model-r-part-1/
+
