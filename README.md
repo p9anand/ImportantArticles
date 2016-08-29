@@ -22,3 +22,6 @@ https://pocketcluster.wordpress.com/2016/07/31/weekly-bigdata-roundup-aug-1-2016
 
 # Follow on kaggle
 https://www.kaggle.com/zfturbo/predicting-red-hat-business-value/xredboost/code
+
+# Recommeder System Spark
+https://medium.com/@HubbaDev/building-a-recommendation-engine-with-aws-data-pipeline-elastic-mapreduce-and-spark-ad886b0a1434#.qfjtkelhn
