@@ -28,3 +28,6 @@ https://medium.com/@HubbaDev/building-a-recommendation-engine-with-aws-data-pipe
 
 # Good Project: Recommender System
 https://www.springboard.com/blog/data-science-projects-bootcamp-graduates/
+
+# TFLearn
+http://tflearn.org/examples/
