@@ -25,3 +25,6 @@ https://www.kaggle.com/zfturbo/predicting-red-hat-business-value/xredboost/code
 
 # Recommeder System Spark
 https://medium.com/@HubbaDev/building-a-recommendation-engine-with-aws-data-pipeline-elastic-mapreduce-and-spark-ad886b0a1434#.qfjtkelhn
+
+# Good Project: Recommender System
+https://www.springboard.com/blog/data-science-projects-bootcamp-graduates/
