@@ -31,3 +31,6 @@ https://www.springboard.com/blog/data-science-projects-bootcamp-graduates/
 
 # TFLearn
 http://tflearn.org/examples/
+
+# Scrape data without login
+http://www.octoparse.com/pricing/
