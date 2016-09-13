@@ -34,3 +34,8 @@ http://tflearn.org/examples/
 
 # Scrape data without login
 http://www.octoparse.com/pricing/
+
+# Probabilistic Machine Learning
+http://www2.stat.duke.edu/~sayan/561/2015/
+
+
