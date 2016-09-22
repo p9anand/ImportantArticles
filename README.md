@@ -41,4 +41,6 @@ http://www2.stat.duke.edu/~sayan/561/2015/
 # Data Science blog
 https://github.com/rushter/data-science-blogs
 
+# Probablilstic World
+http://www.probabilisticworld.com/what-is-bayes-theorem/
 
