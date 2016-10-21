@@ -44,3 +44,6 @@ https://github.com/rushter/data-science-blogs
 # Probablilstic World
 http://www.probabilisticworld.com/what-is-bayes-theorem/
 
+# Stacking Machine Learning Library
+https://github.com/dustinstansbury/stacked_generalization
+
