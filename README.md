@@ -47,3 +47,11 @@ http://www.probabilisticworld.com/what-is-bayes-theorem/
 # Stacking Machine Learning Library
 https://github.com/dustinstansbury/stacked_generalization
 
+# Visualization Library
+https://github.com/wrobstory/vincent
+https://github.com/ayush1997/visualize_ML
+
+# Machine Learning Book
+https://github.com/rasbt/python-machine-learning-book
+https://github.com/szwed/awesome-machine-learning-python
+
