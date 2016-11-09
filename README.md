@@ -55,3 +55,7 @@ https://github.com/ayush1997/visualize_ML
 https://github.com/rasbt/python-machine-learning-book
 https://github.com/szwed/awesome-machine-learning-python
 
+# Automatic Time Series feature extractor
+https://github.com/blue-yonder/tsfresh
+
+
