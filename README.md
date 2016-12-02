@@ -67,4 +67,5 @@ http://www.wildml.com/2016/07/deep-learning-for-chatbots-2-retrieval-based-model
 # Podcast for the Machine Learning 
 https://www.springboard.com/blog/the-10-best-ai-data-science-and-machine-learning-podcasts/
 
-
+# Office For Mac
+https://www.youtube.com/watch?v=mlXZaGSzVaQ
