@@ -58,4 +58,10 @@ https://github.com/szwed/awesome-machine-learning-python
 # Automatic Time Series feature extractor
 https://github.com/blue-yonder/tsfresh
 
+# Chatbot using Deep Learning
+http://suriyadeepan.github.io/2016-06-28-easy-seq2seq/
+https://github.com/nicolas-ivanov/tf_seq2seq_chatbot
+http://lauragelston.ghost.io/speakeasy-pt2/
+http://www.wildml.com/2016/07/deep-learning-for-chatbots-2-retrieval-based-model-tensorflow/
+
 
