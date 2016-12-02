@@ -64,4 +64,7 @@ https://github.com/nicolas-ivanov/tf_seq2seq_chatbot
 http://lauragelston.ghost.io/speakeasy-pt2/
 http://www.wildml.com/2016/07/deep-learning-for-chatbots-2-retrieval-based-model-tensorflow/
 
+# Podcast for the Machine Learning 
+https://www.springboard.com/blog/the-10-best-ai-data-science-and-machine-learning-podcasts/
+
 
