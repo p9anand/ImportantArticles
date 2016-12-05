@@ -69,3 +69,9 @@ https://www.springboard.com/blog/the-10-best-ai-data-science-and-machine-learnin
 
 # Office For Mac
 https://www.youtube.com/watch?v=mlXZaGSzVaQ
+
+# Neural Network from Stanford University
+http://cs231n.stanford.edu/
+http://www.cs.utoronto.ca/~fidler/teaching/2015/CSC2523.html
+https://medium.com/@TalPerry/deep-learning-the-stock-market-df853d139e02#.ho4lualji
+# 
